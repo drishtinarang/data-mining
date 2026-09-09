@@ -1,0 +1,34 @@
+State,Capital,Domestic_Rate_₹/kWh,Petrol_Rate_₹/L,Has_Subsidy
+Delhi,Delhi,8,96.7,Yes
+Rajasthan,Jaipur,8.8,104.9,Yes
+Uttar Pradesh,Lucknow,6.9,96.5,Yes
+Punjab,Chandigarh,7.3,96.8,No
+Haryana,Chandigarh,7.4,97,Yes
+Uttarakhand,Dehradun,6.5,94,Yes
+Himachal Pradesh,Shimla,5.6,96.9,No
+Jammu & Kashmir,Srinagar / Jammu,5.5,100.6,No
+Chandigarh,Chandigarh,5.4,94.2,Yes
+Karnataka,Bangalore,10.7,101.9,Yes
+Tamil Nadu,Chennai,7.6,101.1,Yes
+Telangana,Hyderabad,9.5,107.4,Yes
+Andhra Pradesh,Amaravati,9.6,109.6,Yes
+Kerala,Thiruvananthapuram,8.4,107.6,Yes
+Puducherry,Puducherry,6.4,94.8,No
+West Bengal,Kolkata,9.8,104.9,No
+Bihar,Patna,7.5,106,Yes
+Odisha,Bhubaneswar,6.8,103.1,Yes
+Jharkhand,Ranchi,6.3,98,Yes
+Maharashtra,Mumbai,9.62,104.2,Yes
+Gujarat,Ahmedabad,7.3,95.9,Yes
+Goa,Panaji,5.6,96.5,Yes
+Madhya Pradesh,Bhopal,7.4,108.7,Yes
+Chhattisgarh,Raipur,7.1,101,Yes
+Assam,Dispur,8,98.2,Yes
+Meghalaya,Shillong,6.6,96.8,Yes
+Tripura,Agartala,6.9,97.7,Yes
+Nagaland,Kohima,5.4,97.2,No
+Manipur,Imphal,5.8,99.1,No
+Mizoram,Aizawl,6.7,99.1,No
+Sikkim,Gangtok,4.9,103.4,Yes
+Arunachal Pradesh,Itanagar,5.7,94.2,No
+Delhi,Delhi,4.9,96.7,Yes
