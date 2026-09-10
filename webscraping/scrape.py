@@ -1,6 +1,6 @@
 import time
-from bs4 import BeautifulSoup 
-import requests
+from bs4 import BeautifulSoup
+from curl_cffi import requests
 import pandas as pd
 
 print(">>> Scraping Consumer Complaints for Indian EVs...")
