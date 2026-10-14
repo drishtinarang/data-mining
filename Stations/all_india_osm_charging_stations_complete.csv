@@ -1,0 +1,366 @@
+osm_id,region,station_name,operator,latitude,longitude,charging_speed,connector_type,capacity_ports,opening_hours,fee
+5694140128,Delhi NCR,Public EV Station,Independent / Public,28.555381,77.228418,Standard AC,Standard,1,Unknown,Unknown
+6404118987,Delhi NCR,Public EV Station,Energy Efficiency Services Limited (EESL),28.6336834,77.2219946,Standard AC,Standard,1,Unknown,Unknown
+6404118988,Delhi NCR,Public EV Station,Energy Efficiency Services Limited (EESL),28.6336147,77.2218243,Standard AC,Standard,2,Unknown,Unknown
+6761961056,Delhi NCR,Public EV Station,Independent / Public,28.6341092,77.2202799,Standard AC,Standard,1,Unknown,Unknown
+6761961057,Delhi NCR,Public EV Station,Energy Efficiency Services Limited (EESL),28.633798,77.2208339,Standard AC,Standard,1,Unknown,Unknown
+6918479540,Delhi NCR,Public EV Station,Independent / Public,28.5854347,77.2203893,Standard AC,Standard,1,Unknown,Unknown
+6918479558,Delhi NCR,Public EV Station,Independent / Public,28.587056,77.2120476,Standard AC,Standard,1,Unknown,Unknown
+6961442929,Delhi NCR,Public EV Station,Independent / Public,28.5865591,77.1934263,Standard AC,Standard,1,Unknown,Unknown
+6961442954,Delhi NCR,Public EV Station,Independent / Public,28.5866112,77.1934058,Standard AC,Standard,1,Unknown,Unknown
+6988161557,Delhi NCR,Public EV Station,Independent / Public,28.6342608,77.2206422,Standard AC,Standard,1,Unknown,Unknown
+6988161559,Delhi NCR,Public EV Station,Independent / Public,28.634276,77.2209612,Standard AC,Standard,1,Unknown,Unknown
+7083796927,Delhi NCR,Public EV Station,Independent / Public,28.6350123,77.2197325,Standard AC,Standard,1,Unknown,Unknown
+7083916144,Delhi NCR,Public EV Station,EESL,28.6341151,77.217651,Standard AC,Standard,1,Unknown,Unknown
+7274257107,Delhi NCR,Public EV Station,Independent / Public,28.6327684,77.2228545,Standard AC,Standard,1,Unknown,Unknown
+7387205059,Delhi NCR,FCS,Independent / Public,28.6680488,77.3739552,Standard AC,Standard,1,Unknown,Unknown
+7387324503,Delhi NCR,FCS -2,AB,28.6699882,77.3792992,Standard AC,Standard,20,Unknown,Unknown
+7387335133,Delhi NCR,FCS,Independent / Public,28.6669889,77.3716593,Standard AC,Standard,1,Unknown,Unknown
+7554422920,Delhi NCR,GBU- CHARGING STATION,AB,28.4245314,77.5209704,Fast DC,Standard,1,Unknown,Unknown
+7570518867,Delhi NCR,BISRAKH FCS,AB,28.5747161,77.4453156,Fast DC,Standard,1,Unknown,Unknown
+7572304299,Delhi NCR,BOTANICAL FCS,Independent / Public,28.5651948,77.3343937,Standard AC,Standard,1,Unknown,Unknown
+8948790096,Delhi NCR,Plug N Go,Independent / Public,28.6214714,77.2936333,Standard AC,Standard,1,Unknown,Unknown
+9104747115,Delhi NCR,Public EV Station,Independent / Public,28.5288838,77.2137728,Standard AC,Standard,1,Unknown,Unknown
+9237403818,Delhi NCR,Public EV Station,Independent / Public,28.630944,77.2233578,Standard AC,Standard,1,Unknown,Unknown
+9237403820,Delhi NCR,Public EV Station,Independent / Public,28.6310563,77.2230955,Standard AC,Standard,1,Unknown,Unknown
+9684753376,Delhi NCR,Public EV Station,Independent / Public,28.6040475,77.1977963,Standard AC,Standard,1,Unknown,Unknown
+9684753377,Delhi NCR,Public EV Station,Independent / Public,28.6040394,77.1977808,Standard AC,Standard,1,Unknown,Unknown
+9684753378,Delhi NCR,Public EV Station,Independent / Public,28.6040316,77.1977661,Standard AC,Standard,1,Unknown,Unknown
+9739382793,Delhi NCR,Public EV Station,Independent / Public,28.5483686,77.2547221,Standard AC,Standard,1,Unknown,Unknown
+9739382794,Delhi NCR,Public EV Station,Independent / Public,28.5482674,77.2545695,Standard AC,Standard,1,Unknown,Unknown
+9739382795,Delhi NCR,Public EV Station,Independent / Public,28.5483966,77.2547099,Standard AC,Standard,1,Unknown,Unknown
+9952802373,Delhi NCR,Public EV Station,ElectriVa,28.5692695,77.1884585,Standard AC,Standard,1,Unknown,Unknown
+9952802374,Delhi NCR,Public EV Station,ElectriVa,28.5692799,77.1883649,Standard AC,Standard,1,Unknown,Unknown
+10008994593,Delhi NCR,Public EV Station,Independent / Public,28.622372,77.290246,Standard AC,Standard,1,Unknown,Unknown
+10008994594,Delhi NCR,Public EV Station,Independent / Public,28.6223602,77.2902508,Standard AC,Standard,1,Unknown,Unknown
+10089151842,Delhi NCR,Public EV Station,ElectriVa,28.5426954,77.2219126,Standard AC,Standard,4,Unknown,Unknown
+10240014908,Delhi NCR,Public EV Station,Independent / Public,28.633573,77.2234733,Standard AC,Standard,1,Unknown,Unknown
+10241768254,Delhi NCR,Public EV Station,Independent / Public,28.5903206,77.2201483,Standard AC,Standard,1,Unknown,Unknown
+10241775591,Delhi NCR,Public EV Station,Independent / Public,28.5902808,77.2197587,Standard AC,Standard,1,Unknown,Unknown
+10241805232,Delhi NCR,Public EV Station,Independent / Public,28.5903207,77.2201225,Standard AC,Standard,1,Unknown,Unknown
+10241808063,Delhi NCR,Public EV Station,Independent / Public,28.5903054,77.2199561,Standard AC,Standard,1,Unknown,Unknown
+10564130631,Delhi NCR,Public EV Station,Independent / Public,28.6003513,77.2267809,Standard AC,Standard,1,Unknown,Unknown
+10576228241,Delhi NCR,Public EV Station,Independent / Public,28.596925,77.2229085,Standard AC,Standard,1,Unknown,Unknown
+10593602327,Delhi NCR,Public EV Station,Independent / Public,28.4188726,77.0392065,Standard AC,Standard,1,Unknown,Unknown
+10694479767,Delhi NCR,Public EV Station,Independent / Public,28.563383,77.2647745,Standard AC,Standard,2,Unknown,Unknown
+10703875766,Delhi NCR,Public EV Station,Independent / Public,28.7263595,77.1628441,Standard AC,Standard,1,Unknown,Unknown
+10778957417,Delhi NCR,Public EV Station,Independent / Public,28.7242899,77.1802238,Standard AC,Standard,1,Unknown,Unknown
+10905351902,Delhi NCR,Public EV Station,Independent / Public,28.6342282,77.2195272,Standard AC,Standard,1,Unknown,Unknown
+10908485585,Delhi NCR,Public EV Station,Independent / Public,28.6993047,77.203949,Standard AC,Standard,1,Unknown,Unknown
+10908485595,Delhi NCR,Public EV Station,Independent / Public,28.6992861,77.203999,Standard AC,Standard,1,Unknown,Unknown
+10922054270,Delhi NCR,Public EV Station,Independent / Public,28.6315233,77.2199032,Standard AC,Standard,1,Unknown,Unknown
+10948867107,Delhi NCR,Public EV Station,Independent / Public,28.5404442,77.2349474,Standard AC,Standard,1,Unknown,Unknown
+11030050466,Delhi NCR,Public EV Station,Independent / Public,28.5715108,77.2369501,Standard AC,Standard,1,Unknown,Unknown
+11030050467,Delhi NCR,Public EV Station,Independent / Public,28.5715706,77.2369881,Standard AC,Standard,1,Unknown,Unknown
+11083172400,Delhi NCR,Public EV Station,Charge Karo,28.5443474,77.2455856,Standard AC,Standard,6,Unknown,Unknown
+11083172401,Delhi NCR,Public EV Station,Charge Karo,28.5443273,77.2455165,Standard AC,Standard,1,Unknown,Unknown
+11132023351,Delhi NCR,Public EV Station,Independent / Public,28.5844378,77.2205342,Standard AC,Standard,1,Unknown,Unknown
+11148213616,Delhi NCR,Public EV Station,Independent / Public,28.622435,77.2890724,Standard AC,Standard,1,Unknown,yes
+11288533005,Delhi NCR,Public EV Station,Independent / Public,28.5497356,77.2594429,Standard AC,Standard,1,Unknown,Unknown
+11288533006,Delhi NCR,Public EV Station,Independent / Public,28.5497042,77.2594888,Standard AC,Standard,1,Unknown,Unknown
+11288533008,Delhi NCR,Public EV Station,Independent / Public,28.5496589,77.2595584,Standard AC,Standard,1,Unknown,Unknown
+11288533010,Delhi NCR,Public EV Station,Independent / Public,28.5496792,77.2595256,Standard AC,Standard,1,Unknown,Unknown
+11288533011,Delhi NCR,Public EV Station,Independent / Public,28.5497534,77.2594016,Standard AC,Standard,1,Unknown,Unknown
+11368545133,Delhi NCR,Public EV Station,Charge Karo,28.5697606,77.2381099,Standard AC,Standard,1,Unknown,Unknown
+11406900271,Delhi NCR,Public EV Station,Tata Power,28.6019401,77.2372754,Standard AC,1,1,Unknown,Unknown
+11414388215,Delhi NCR,Public EV Station,Independent / Public,28.5508417,77.2343743,Standard AC,Standard,1,Unknown,Unknown
+11414388216,Delhi NCR,Public EV Station,Independent / Public,28.5508303,77.2343614,Standard AC,Standard,1,Unknown,Unknown
+11421789517,Delhi NCR,Public EV Station,Independent / Public,28.6177007,77.28703,Standard AC,Standard,1,Unknown,Unknown
+11421789521,Delhi NCR,Public EV Station,Independent / Public,28.6176864,77.2870367,Standard AC,Standard,1,Unknown,Unknown
+11449177423,Delhi NCR,Public EV Station,Independent / Public,28.6606575,77.1433393,Standard AC,Standard,1,Unknown,Unknown
+11454822427,Delhi NCR,Public EV Station,Independent / Public,28.6672518,77.2532299,Standard AC,Standard,1,Unknown,Unknown
+11454822430,Delhi NCR,Public EV Station,Independent / Public,28.6672527,77.2532856,Standard AC,Standard,1,Unknown,Unknown
+11454822431,Delhi NCR,Public EV Station,Independent / Public,28.667252,77.2532583,Standard AC,Standard,1,Unknown,Unknown
+11478464616,Delhi NCR,Public EV Station,Independent / Public,28.6229566,77.2989161,Standard AC,Standard,1,Unknown,Unknown
+11601441778,Delhi NCR,Public EV Station,Independent / Public,28.6531076,77.1562309,Standard AC,Standard,1,Unknown,Unknown
+11601441779,Delhi NCR,Switch Station,Independent / Public,28.6530158,77.1563495,Standard AC,Standard,1,Unknown,Unknown
+11601441781,Delhi NCR,Public EV Station,Independent / Public,28.6531276,77.1561984,Standard AC,Standard,1,Unknown,Unknown
+11637354348,Delhi NCR,Public EV Station,Independent / Public,28.6338798,77.2175045,Standard AC,Standard,1,Unknown,Unknown
+11642004107,Delhi NCR,Public EV Station,Independent / Public,28.6272979,77.2319249,Standard AC,Standard,1,Unknown,Unknown
+11697454694,Delhi NCR,Public EV Station,Independent / Public,28.5508115,77.2510865,Standard AC,Standard,1,Unknown,Unknown
+11697454712,Delhi NCR,Public EV Station,Independent / Public,28.5508585,77.2510569,Standard AC,Standard,1,Unknown,Unknown
+11771960493,Delhi NCR,Public EV Station,Independent / Public,28.5544887,77.195939,Standard AC,Standard,1,Unknown,Unknown
+11795617114,Delhi NCR,Public EV Station,Xicom,28.6286105,77.2196866,Standard AC,Standard,1,Unknown,Unknown
+11821495340,Delhi NCR,Public EV Station,Charj Karo,28.6799791,77.2085882,Standard AC,Standard,3,Unknown,Unknown
+11871740090,Delhi NCR,Public EV Station,Independent / Public,28.5649281,77.2245367,Standard AC,Standard,1,Unknown,Unknown
+11873258339,Delhi NCR,Public EV Station,Independent / Public,28.5540272,77.212758,Standard AC,Standard,1,Unknown,Unknown
+11875814624,Delhi NCR,Ganpati Smart Point,Independent / Public,28.6775315,77.2080457,Standard AC,Standard,1,Unknown,yes
+11875926233,Delhi NCR,Public EV Station,EESL,28.6219707,77.1948236,Standard AC,Standard,4,Unknown,no
+11882034350,Delhi NCR,Public EV Station,Independent / Public,28.5416057,77.2328267,Standard AC,Standard,1,Unknown,Unknown
+11882034351,Delhi NCR,Public EV Station,Independent / Public,28.5333783,77.2317719,Standard AC,Standard,1,Unknown,Unknown
+11882034353,Delhi NCR,Public EV Station,Independent / Public,28.541597,77.2328551,Standard AC,Standard,1,Unknown,Unknown
+11891087067,Delhi NCR,Public EV Station,Independent / Public,28.5483295,77.2547433,Standard AC,Standard,1,Unknown,Unknown
+11891087068,Delhi NCR,Public EV Station,Independent / Public,28.5482916,77.2547553,Standard AC,Standard,1,Unknown,Unknown
+11934676233,Delhi NCR,Public EV Station,Independent / Public,28.586642,77.2407912,Standard AC,Standard,1,Unknown,Unknown
+11982372933,Delhi NCR,Public EV Station,One Delhi,28.5964138,77.2935572,Standard AC,Standard,1,Unknown,Unknown
+11982458750,Delhi NCR,Public EV Station,CESL,28.5964138,77.2935572,Standard AC,Standard,1,Unknown,Unknown
+12031201050,Delhi NCR,Swap Point,Sun Mobility,28.5442512,77.264671,Standard AC,Standard,1,Unknown,Unknown
+12064267225,Delhi NCR,Public EV Station,Independent / Public,28.6382309,77.2873054,Standard AC,Standard,1,Unknown,Unknown
+12098546110,Delhi NCR,Public EV Station,Energy Efficiency Services Limited (EESL),28.6316265,77.222004,Standard AC,Standard,2,Unknown,Unknown
+12123396312,Delhi NCR,Public EV Station,Yuma,28.6952457,77.2153259,Standard AC,Standard,1,Unknown,Unknown
+12192527479,Delhi NCR,Public EV Station,Statiq,28.5133039,77.1860742,Standard AC,Standard,1,Unknown,yes
+12196467738,Delhi NCR,Public EV Station,Battery Smart,28.688648,77.2067275,Standard AC,Standard,3,Unknown,yes
+12352455245,Delhi NCR,Public EV Station,Independent / Public,28.6492602,77.316582,Standard AC,Standard,1,Unknown,Unknown
+12596574170,Delhi NCR,Public EV Station,Electric Vehicle Charging Station,28.6622203,77.3000898,Standard AC,Standard,1,Unknown,Unknown
+12647193426,Delhi NCR,Public EV Station,Yuma,28.5910595,77.0429824,Standard AC,Standard,1,Unknown,Unknown
+12672890507,Delhi NCR,Public EV Station,Independent / Public,28.5904687,77.2331036,Standard AC,Standard,1,Unknown,yes
+12811975823,Delhi NCR,Public EV Station,Okaya,28.5679245,77.2427016,Standard AC,Standard,1,Unknown,Unknown
+12823839873,Delhi NCR,Public EV Station,Independent / Public,28.6251684,77.3056013,Standard AC,Standard,1,Unknown,Unknown
+12894372007,Delhi NCR,Public EV Station,Independent / Public,28.6112384,77.2449181,Standard AC,Standard,1,Unknown,Unknown
+12901933482,Delhi NCR,Public EV Station,Independent / Public,28.5875463,77.226213,Standard AC,Standard,1,Unknown,Unknown
+12901933483,Delhi NCR,Public EV Station,Independent / Public,28.58752,77.226218,Standard AC,Standard,1,Unknown,Unknown
+12903526837,Delhi NCR,Public EV Station,Yuma,28.5810704,77.2390952,Standard AC,Standard,1,Unknown,Unknown
+12972970667,Delhi NCR,Public EV Station,Independent / Public,28.5793023,77.1883978,Standard AC,Standard,1,Unknown,Unknown
+12973875562,Delhi NCR,Public EV Station,Independent / Public,28.5613597,77.0813217,Standard AC,Standard,1,Unknown,Unknown
+13110034737,Delhi NCR,Public EV Station,BAAZ,28.6856903,77.205345,Standard AC,Standard,1,Unknown,yes
+13110034738,Delhi NCR,Public EV Station,Charj Karo,28.6857175,77.2053595,Standard AC,Standard,1,Unknown,yes
+13243279486,Delhi NCR,Public EV Station,Independent / Public,28.4600091,77.0956185,Standard AC,Standard,2,Unknown,Unknown
+13245932038,Delhi NCR,Public EV Station,Independent / Public,28.4951713,77.0912527,Standard AC,Standard,4,Unknown,Unknown
+13246707689,Delhi NCR,Public EV Station,Mercedes-Benz,28.4601725,77.0956771,Standard AC,Standard,4,Unknown,Unknown
+13294609048,Delhi NCR,Public EV Station,Independent / Public,28.587169,77.2413624,Fast DC,Standard,1,Unknown,Unknown
+13300936973,Delhi NCR,Public EV Station,Independent / Public,28.4952305,77.0880137,Standard AC,Standard,2,Unknown,Unknown
+13351067902,Delhi NCR,Public EV Station,Independent / Public,28.6185254,77.2871601,Standard AC,Standard,1,Unknown,Unknown
+13624573647,Delhi NCR,Public EV Station,EESL,28.5564985,77.2326653,Fast DC,1,1,Unknown,yes
+13624573656,Delhi NCR,Public EV Station,EESL,28.5564627,77.2326631,Fast DC,1,1,Unknown,yes
+13632992904,Delhi NCR,Public EV Station,Honda e:swap,28.6253953,77.2332995,Standard AC,Standard,1,Unknown,Unknown
+13632992905,Delhi NCR,Public EV Station,Yuma,28.625397,77.2331692,Standard AC,Standard,1,Unknown,Unknown
+13633628620,Delhi NCR,Public EV Station,Ather,28.6915005,77.2092134,Standard AC,Standard,1,Unknown,yes
+13688377301,Delhi NCR,Tesla Supercharger,Tesla,28.5515313,77.1218893,Standard AC,Standard,1,24/7,yes
+13688377501,Delhi NCR,Tesla Supercharger,Tesla,28.42597,77.0368971,Standard AC,Standard,4,24/7,yes
+13688398004,Delhi NCR,Public EV Station,Independent / Public,28.5515415,77.121598,Standard AC,Standard,1,24/7,yes
+13688398203,Delhi NCR,Public EV Station,Independent / Public,28.4261625,77.0367783,Standard AC,Standard,1,24/7,yes
+13746020730,Delhi NCR,Public EV Station,Independent / Public,28.5694639,77.2044503,Standard AC,Standard,1,Unknown,Unknown
+13746020743,Delhi NCR,Public EV Station,Yuma,28.5466296,77.1950119,Standard AC,Standard,1,Unknown,Unknown
+13757728976,Delhi NCR,Public EV Station,Independent / Public,28.5805655,77.1796965,Standard AC,Standard,1,Unknown,Unknown
+13800324487,Delhi NCR,Public EV Station,Independent / Public,28.5962686,77.2046077,Standard AC,Standard,1,Unknown,Unknown
+13807361239,Delhi NCR,Public EV Station,Independent / Public,28.5805088,77.1793725,Standard AC,Standard,1,Unknown,Unknown
+13820100532,Delhi NCR,Public EV Station,Vida,28.5592932,77.232144,Standard AC,Standard,1,Unknown,Unknown
+13890311968,Delhi NCR,IGL EV charging station,Independent / Public,28.5899305,77.229278,Standard AC,Standard,1,Unknown,Unknown
+13931872808,Delhi NCR,Public EV Station,Independent / Public,28.5641298,77.333309,Standard AC,Standard,1,Unknown,Unknown
+13955464891,Delhi NCR,Public EV Station,Tata,28.3190968,77.5517525,Standard AC,Standard,6,Unknown,Unknown
+13955495821,Delhi NCR,Public EV Station,Independent / Public,28.3189147,77.5515785,Standard AC,Standard,1,Unknown,Unknown
+13969467531,Delhi NCR,Public EV Station,ElectriVa,28.5698471,77.1852904,Standard AC,Standard,1,Unknown,Unknown
+13969467543,Delhi NCR,Public EV Station,Independent / Public,28.5694049,77.1651098,Standard AC,Standard,1,Unknown,Unknown
+13982741917,Delhi NCR,Public EV Station,Yuma,28.5610466,77.2312484,Standard AC,Standard,1,Unknown,Unknown
+13982895901,Delhi NCR,Public EV Station,Switch Delhi,28.576123,77.069508,Standard AC,Standard,1,Unknown,Unknown
+13997784674,Delhi NCR,Public EV Station,Independent / Public,28.5688051,77.2214679,Standard AC,Standard,1,Unknown,Unknown
+13999844990,Delhi NCR,Public EV Station,ElectriVa,28.5686034,77.2195292,Standard AC,Standard,1,Unknown,Unknown
+13999844996,Delhi NCR,Public EV Station,Yuma,28.5686067,77.2204883,Standard AC,Standard,1,Unknown,Unknown
+14016861905,Delhi NCR,Public EV Station,Independent / Public,28.584619,77.2204289,Standard AC,Standard,1,Unknown,Unknown
+14017165298,Delhi NCR,Public EV Station,Glida,28.5680604,77.2235189,Standard AC,Standard,2,Unknown,yes
+14017179737,Delhi NCR,Public EV Station,Reliable Charge,28.5827644,77.2511763,Standard AC,Standard,1,Unknown,yes
+14017179749,Delhi NCR,Public EV Station,Independent / Public,28.5838252,77.2502725,Standard AC,Standard,1,Unknown,Unknown
+14017179796,Delhi NCR,Public EV Station,Honda,28.564806,77.2400299,Standard AC,Standard,1,Unknown,Unknown
+14017751400,Delhi NCR,Public EV Station,Independent / Public,28.5719035,77.2578799,Standard AC,Standard,1,Unknown,Unknown
+14017793416,Delhi NCR,Public EV Station,Independent / Public,28.5685287,77.2205477,Standard AC,Standard,1,Unknown,Unknown
+14029112723,Delhi NCR,Public EV Station,Independent / Public,28.5805091,77.2209605,Standard AC,Standard,1,Unknown,Unknown
+14046155283,Delhi NCR,Public EV Station,Independent / Public,28.5597846,77.1745787,Standard AC,Standard,1,Unknown,Unknown
+14058958230,Delhi NCR,Public EV Station,Honda,28.6938836,77.2093354,Standard AC,Standard,1,Unknown,Unknown
+14058958254,Delhi NCR,Public EV Station,Independent / Public,28.6914839,77.2092722,Standard AC,Standard,1,Unknown,yes
+14058958262,Delhi NCR,Public EV Station,Independent / Public,28.6914946,77.2092346,Standard AC,Standard,1,Unknown,yes
+14058958287,Delhi NCR,Public EV Station,Lectrix EV,28.6914877,77.2092591,Standard AC,Standard,1,Unknown,yes
+14058958324,Delhi NCR,Public EV Station,Vinfast,28.6914752,77.2092831,Fast DC,Standard,1,Unknown,yes
+14066036841,Delhi NCR,Public EV Station,ElectriVa,28.5723516,77.1802808,Standard AC,Standard,1,Unknown,Unknown
+14074085866,Delhi NCR,Tata Power EV Charging,Tata Power,28.5947709,77.1333487,Standard AC,Standard,30,24/7,Unknown
+14074612257,Delhi NCR,Public EV Station,Independent / Public,28.6890231,77.2070216,Standard AC,Standard,1,Unknown,Unknown
+14094178511,Delhi NCR,Public EV Station,Independent / Public,28.693914,77.2183933,Standard AC,Standard,1,Unknown,Unknown
+14094459866,Delhi NCR,Public EV Station,Independent / Public,28.5584955,77.2393014,Standard AC,Standard,1,Unknown,Unknown
+14100919780,Delhi NCR,Public EV Station,Independent / Public,28.5688941,77.2194753,Standard AC,Standard,1,Unknown,Unknown
+14100919787,Delhi NCR,Public EV Station,Blu Smart Charge,28.5680283,77.2200938,Standard AC,Standard,2,Unknown,Unknown
+14100954403,Delhi NCR,Public EV Station,Independent / Public,28.5579483,77.1868818,Standard AC,Standard,1,Unknown,Unknown
+14100954447,Delhi NCR,Public EV Station,Independent / Public,28.5611893,77.1880625,Standard AC,Standard,1,Unknown,Unknown
+14100954555,Delhi NCR,Public EV Station,Independent / Public,28.556706,77.1864405,Standard AC,Standard,1,Unknown,Unknown
+14101585227,Delhi NCR,Public EV Station,Independent / Public,28.5556409,77.1765669,Standard AC,Standard,1,Unknown,Unknown
+14101585231,Delhi NCR,Public EV Station,Independent / Public,28.5422697,77.2272712,Standard AC,Standard,1,Unknown,Unknown
+14101585246,Delhi NCR,Public EV Station,Independent / Public,28.5439827,77.2045958,Standard AC,Standard,1,Unknown,Unknown
+14101585269,Delhi NCR,Public EV Station,Independent / Public,28.5663604,77.1663358,Standard AC,Standard,1,Unknown,Unknown
+14101585281,Delhi NCR,Public EV Station,Independent / Public,28.5459239,77.1970866,Standard AC,Standard,1,Unknown,Unknown
+14101585294,Delhi NCR,Public EV Station,Independent / Public,28.5600235,77.1708457,Standard AC,Standard,1,Unknown,Unknown
+14106405348,Delhi NCR,Public EV Station,Independent / Public,28.6183593,77.2871019,Standard AC,Standard,1,Unknown,Unknown
+14115719957,Delhi NCR,Public EV Station,Vinfast,28.6883428,77.2211638,Fast DC,Standard,1,Unknown,Unknown
+14115719958,Delhi NCR,Public EV Station,Ather,28.6883767,77.2211596,Standard AC,Standard,1,Unknown,Unknown
+14115719961,Delhi NCR,Public EV Station,Lectrix EV,28.6884319,77.2211588,Standard AC,Standard,1,Unknown,Unknown
+14131315924,Delhi NCR,Public EV Station,Independent / Public,28.5592915,77.2361389,Standard AC,Standard,1,Unknown,Unknown
+14166994014,Delhi NCR,Public EV Station,Independent / Public,28.7066521,77.1820925,Standard AC,Standard,1,Unknown,Unknown
+14188555471,Delhi NCR,Public EV Station,Yuma,28.4505419,77.0906876,Standard AC,Standard,1,Unknown,Unknown
+14214180458,Delhi NCR,Public EV Station,BSES,28.5732896,77.2108081,Standard AC,Standard,1,Unknown,Unknown
+1200990773,Delhi NCR,Public EV Station,Independent / Public,28.5888756,77.2530636,Standard AC,Standard,4,Unknown,Unknown
+1230812469,Delhi NCR,Public EV Station,TerraCharge,28.6250807,77.3055103,Standard AC,Standard,1,Unknown,Unknown
+1318570394,Delhi NCR,Public EV Station,Independent / Public,28.5658947,77.2488941,Standard AC,Standard,1,Unknown,Unknown
+1478610222,Delhi NCR,Charj Karo,HLL Infra Tech Services,28.6335149,77.216504,Standard AC,Standard,1,Unknown,Unknown
+1528697596,Delhi NCR,Public EV Station,Independent / Public,28.5745564,77.3554084,Standard AC,Standard,1,Unknown,Unknown
+9202909866,Karnataka,Ather Charging Grid,Ather Energy,12.975668,77.6413089,Standard AC,Standard,8,Unknown,Unknown
+9527967749,Karnataka,Public EV Station,Independent / Public,13.0415766,77.6204588,Standard AC,Standard,1,Unknown,Unknown
+9796873472,Karnataka,Public EV Station,BESCOM,12.9947371,77.6993007,Standard AC,Standard,2,Unknown,Unknown
+9811396097,Karnataka,Public EV Station,Independent / Public,12.9775829,77.6389895,Standard AC,Standard,1,Unknown,Unknown
+9917415768,Karnataka,Public EV Station,Independent / Public,12.9733967,77.6357561,Standard AC,Standard,1,Unknown,Unknown
+9917415769,Karnataka,Public EV Station,Independent / Public,12.9733738,77.6357554,Standard AC,Standard,1,Unknown,Unknown
+10177662896,Karnataka,Public EV Station,Independent / Public,12.9137732,77.6441735,Standard AC,Standard,1,Unknown,Unknown
+10178076779,Karnataka,Public EV Station,Independent / Public,13.1973512,77.7076171,Standard AC,Standard,1,Unknown,Unknown
+10293872605,Karnataka,inGO,Independent / Public,12.9712776,77.6078832,Standard AC,Standard,1,Unknown,Unknown
+10294506356,Karnataka,Public EV Station,Yulu,12.9764825,77.6268299,Standard AC,Standard,1,Unknown,Unknown
+10763275239,Karnataka,Magenta ChargeGrid Charging Station,Magenta Group,12.9154635,77.6158909,Standard AC,Standard,1,Unknown,yes
+11178123519,Karnataka,Public EV Station,Ather,12.9576825,77.5684466,Standard AC,Standard,1,Unknown,Unknown
+11214889013,Karnataka,Pulse,Independent / Public,12.9805484,77.5978893,Standard AC,Standard,1,Unknown,Unknown
+11283405698,Karnataka,Ola Hypercharger,Independent / Public,12.9322172,77.6142725,Standard AC,Standard,4,Unknown,Unknown
+11286212936,Karnataka,Public EV Station,BESCOM,12.916907,77.6102709,Standard AC,Standard,2,Unknown,Unknown
+11297781805,Karnataka,Public EV Station,Hero Vida,12.9710109,77.597788,Standard AC,Standard,1,Unknown,Unknown
+11408768738,Karnataka,Public EV Station,Independent / Public,12.9736666,77.5830855,Standard AC,Standard,1,Unknown,Unknown
+11463172582,Karnataka,Public EV Station,Honda e:swap,12.9302614,77.614821,Standard AC,Standard,1,Unknown,Unknown
+11542817290,Karnataka,Public EV Station,Independent / Public,12.9362684,77.6076884,Standard AC,Standard,1,Unknown,yes
+11818587530,Karnataka,GLIDA Charging Station,Independent / Public,13.1831411,77.6760596,Standard AC,Standard,15,Unknown,yes
+11818587531,Karnataka,BluSmart Charging Station,Independent / Public,13.1821565,77.6710546,Standard AC,Standard,24,Unknown,yes
+11927677057,Karnataka,Ola Hyper Charger,ChargePoint,12.9337755,77.6236693,Standard AC,Standard,2,Unknown,no
+11927677058,Karnataka,Battery Swap,ChargePoint,12.9285835,77.6241904,Standard AC,Standard,1,Unknown,Unknown
+11936564076,Karnataka,Ather Charging Station,ChargePoint,12.9311453,77.6238461,Standard AC,Standard,1,Unknown,no
+11987023859,Karnataka,BluSmart Charging Station,Independent / Public,13.1776646,77.6630831,Standard AC,Standard,1,Unknown,yes
+12002046035,Karnataka,Public EV Station,Independent / Public,12.977855,77.5812757,Standard AC,Standard,1,Unknown,yes
+12016136802,Karnataka,Public EV Station,Independent / Public,13.027001,77.5425776,Standard AC,Standard,1,Unknown,Unknown
+12078138004,Karnataka,Public EV Station,Independent / Public,12.9810756,77.5966804,Standard AC,Standard,1,Unknown,Unknown
+12100028686,Karnataka,Honda e:swap,Honda e:swap,13.0000143,77.5499059,Standard AC,Standard,1,Unknown,yes
+12101733050,Karnataka,Public EV Station,Ola Hypercharger,12.965406,77.6002473,Standard AC,Standard,1,Unknown,Unknown
+12125802596,Karnataka,Honda e:swap,Honda e:swap,12.9781045,77.6389105,Standard AC,Standard,1,Unknown,yes
+12169023077,Karnataka,Battery Swapping Station,Independent / Public,12.8894274,77.5563647,Standard AC,Standard,1,24/7,Unknown
+12432219066,Karnataka,Public EV Station,Shell,13.1543775,77.702793,Standard AC,Standard,41,Unknown,Unknown
+12492566397,Karnataka,Honda e:swap,Honda e:swap,12.9383537,77.5802162,Standard AC,Standard,1,Unknown,yes
+12492581619,Karnataka,Honda e:swap,Honda e:swap,12.9217078,77.5805052,Standard AC,Standard,1,Unknown,yes
+12519643346,Karnataka,Honda e:swap,Honda e:swap,13.0330528,77.533757,Standard AC,Standard,1,Unknown,yes
+12534145133,Karnataka,Honda e:swap,Independent / Public,12.993427,77.7043141,Standard AC,Standard,1,Unknown,Unknown
+12534184756,Karnataka,Honda e:swap,Independent / Public,12.993427,77.7043141,Standard AC,Standard,1,Unknown,Unknown
+12788139581,Karnataka,Honda e:swap,Honda e:swap,12.9861844,77.6156891,Standard AC,Standard,1,Unknown,yes
+12968864355,Karnataka,Public EV Station,Independent / Public,13.020096,77.6929133,Standard AC,Standard,1,Unknown,yes
+12982255490,Karnataka,Public EV Station,êpump,12.9421168,77.7471967,Standard AC,Standard,1,Unknown,Unknown
+13198115513,Karnataka,Public EV Station,Independent / Public,13.1778318,77.6637027,Standard AC,Standard,1,Unknown,Unknown
+13238855163,Karnataka,Public EV Station,Glida,12.9662557,76.7885149,Standard AC,Standard,1,Unknown,yes
+13277046524,Karnataka,Honda e:swap,Honda e:swap,13.0235213,77.5497316,Standard AC,Standard,12,Unknown,yes
+13277046525,Karnataka,Honda e:swap,Honda e:swap,13.0235317,77.5497115,Standard AC,Standard,12,Unknown,yes
+13289292621,Karnataka,Public EV Station,Independent / Public,13.1824621,77.6738012,Standard AC,Standard,2,Unknown,Unknown
+13289292622,Karnataka,Public EV Station,Independent / Public,13.1842301,77.6808688,Standard AC,Standard,1,Unknown,Unknown
+13566426890,Karnataka,Public EV Station,Sun Mobility,13.0001758,77.6869647,Standard AC,Standard,1,Unknown,Unknown
+13625197611,Karnataka,Public EV Station,Independent / Public,12.765215,77.3303554,Standard AC,Standard,1,Unknown,Unknown
+14159740576,Karnataka,Ather Fast Charger,Independent / Public,12.8316517,77.703681,Fast DC,Standard,1,Unknown,Unknown
+1150511285,Karnataka,Public EV Station,Shell,12.9725414,77.7078105,Standard AC,Standard,4,Unknown,no
+1334165085,Karnataka,Public EV Station,Jio BP,12.9517505,77.7024581,Standard AC,Standard,1,Unknown,Unknown
+1353053241,Karnataka,Jio BP,Independent / Public,13.0878799,77.6601841,Standard AC,Standard,1,Unknown,Unknown
+1453071780,Karnataka,Public EV Station,BESCOM,13.1831753,77.6792437,Standard AC,Standard,1,Unknown,Unknown
+1491010012,Karnataka,Public EV Station,Bolt Earth,12.9284786,77.7459842,Standard AC,Standard,1,Unknown,yes
+1491224554,Karnataka,Public EV Station,Bolt Earth,12.9301172,77.7442461,Standard AC,Standard,1,Unknown,yes
+1491224555,Karnataka,Public EV Station,Bolt Earth,12.9321299,77.7463558,Standard AC,Standard,1,Unknown,yes
+763446417,Maharashtra,Public EV Station,Independent / Public,18.496101,73.8088593,Standard AC,Standard,1,Unknown,Unknown
+6116153836,Maharashtra,Public EV Station,PowerUP,18.567214,73.7719864,Standard AC,Standard,1,Unknown,Unknown
+9215039103,Maharashtra,Fortum EV Charger,Fortum,19.2329576,72.9760606,Standard AC,Standard,1,Unknown,yes
+9252505223,Maharashtra,PowerGrid Charging Station,PowerGrid,19.0245243,73.0135121,Standard AC,Standard,1,Unknown,yes
+9411828530,Maharashtra,Public EV Station,Ather Energy,18.5071941,73.8037729,Standard AC,Standard,1,Unknown,yes
+10013758817,Maharashtra,Public EV Station,Tata power,18.6111535,73.7831554,Standard AC,Standard,2,Unknown,yes
+10053873979,Maharashtra,Public EV Station,Laxmi Refreshments,19.3166356,74.1749919,Fast DC,1,1,Unknown,yes
+10055287289,Maharashtra,Public EV Station,Shridha,18.9913873,73.9427761,Standard AC,Standard,2,Unknown,yes
+10097434142,Maharashtra,Public EV Station,Bolt,18.5095633,73.8147009,Standard AC,Standard,8,Unknown,Unknown
+10097434143,Maharashtra,Public EV Station,Ather Energy,18.5105681,73.781902,Standard AC,Standard,1,Unknown,Unknown
+10097434144,Maharashtra,Public EV Station,Ather Energy,18.4844962,73.8496753,Standard AC,Standard,1,Unknown,yes
+10097460085,Maharashtra,Public EV Station,Ather Energy,18.5189771,73.8304638,Standard AC,Standard,1,Unknown,Unknown
+10203122676,Maharashtra,Statiq Nandagav,Statiq,18.6186752,72.9004606,Standard AC,Standard,1,Unknown,yes
+10205648223,Maharashtra,Go e go,Independent / Public,18.6433491,72.8762211,Standard AC,Standard,4,Unknown,yes
+10250046452,Maharashtra,Public EV Station,Tata,18.5536336,73.806562,Standard AC,Standard,2,Unknown,Unknown
+10285393622,Maharashtra,Tata Power,Tata Power,18.9561767,73.1627884,Standard AC,Standard,1,Unknown,Unknown
+10285406628,Maharashtra,Jio-BP,Jio-BP,19.0874903,73.0796316,Standard AC,Standard,2,Unknown,Unknown
+10290789663,Maharashtra,Public EV Station,Go Ego,18.5788787,73.7624887,Standard AC,Standard,1,Unknown,Unknown
+10553764693,Maharashtra,Public EV Station,Tata power,19.1597944,72.858293,Standard AC,Standard,1,Unknown,yes
+10615755147,Maharashtra,Public EV Station,Trimurti Motors,18.5114349,73.7770341,Standard AC,Standard,1,Unknown,Unknown
+10671202586,Maharashtra,Public EV Station,Shell,18.5857278,73.7817517,Standard AC,Standard,3,Unknown,yes
+10719100420,Maharashtra,Public EV Station,goEgo Charging Station,18.6170757,73.7673099,Standard AC,Standard,1,Unknown,Unknown
+10797010207,Maharashtra,Public EV Station,Tata power,18.5998693,73.7548665,Standard AC,1,1,Unknown,Unknown
+10797010208,Maharashtra,Public EV Station,Tata power,18.5995979,73.7548745,Fast DC,1,1,Unknown,Unknown
+10827297703,Maharashtra,Public EV Station,Mahavitaran,19.0671494,73.0075344,Standard AC,Standard,1,Unknown,yes
+10841782157,Maharashtra,Public EV Station,Ather Energy,18.5887644,73.7827295,Standard AC,Standard,1,Unknown,yes
+10844985580,Maharashtra,Public EV Station,Independent / Public,18.5778315,73.9073489,Standard AC,Standard,2,Unknown,yes
+10870849607,Maharashtra,Public EV Station,GoEgo,18.5906635,73.7457888,Standard AC,Standard,1,Unknown,yes
+11005778506,Maharashtra,Public EV Station,Jio pulse,18.5638072,73.8068573,Standard AC,Standard,1,Unknown,yes
+11033745938,Maharashtra,Public EV Station,Tata Power,18.5897559,73.7381716,Standard AC,Standard,2,Unknown,yes
+11217502924,Maharashtra,Public EV Station,Westend Mall,18.5623306,73.8069355,Standard AC,Standard,5,Unknown,Unknown
+11452082417,Maharashtra,Public EV Station,Independent / Public,18.6347952,73.7990514,Standard AC,Standard,1,Unknown,Unknown
+11578223404,Maharashtra,Public EV Station,Zeal Energy Services,18.4600725,73.786174,Standard AC,Standard,1,Unknown,Unknown
+12334310661,Maharashtra,Public EV Station,kazam,18.4979616,73.7941778,Standard AC,Standard,1,Unknown,Unknown
+12350373268,Maharashtra,Public EV Station,EV Dock,18.5857921,73.734433,Standard AC,Standard,1,Unknown,yes
+12350440058,Maharashtra,Public EV Station,Shell,18.5907601,73.7410354,Standard AC,Standard,30 kw,Unknown,yes
+12350467611,Maharashtra,Public EV Station,Bijlify,18.5781719,73.7368921,Standard AC,Standard,20 kw,Unknown,yes
+12458871181,Maharashtra,Public EV Station,Statiq,18.5638929,73.8070465,Standard AC,Standard,60,Unknown,yes
+12473454969,Maharashtra,Public EV Station,Bijlify,18.5228186,73.8410529,Standard AC,Standard,1,Unknown,yes
+13629431945,Maharashtra,Public EV Station,Independent / Public,18.9048855,72.8046553,Standard AC,Standard,1,Unknown,Unknown
+14158954590,Maharashtra,Public EV Station,Honda,19.146307,72.8336534,Standard AC,Standard,1,Unknown,Unknown
+14197852532,Maharashtra,Public EV Station,Independent / Public,19.1302336,72.8314106,Standard AC,Standard,1,Unknown,Unknown
+359699641,Maharashtra,Public EV Station,Independent / Public,18.5912547,73.7488124,Standard AC,Standard,1,Unknown,Unknown
+360242628,Maharashtra,Public EV Station,Independent / Public,18.5882782,73.784882,Standard AC,Standard,1,Unknown,Unknown
+1152420782,Maharashtra,Public EV Station,Tata Power,18.6165794,73.7476226,Standard AC,Standard,2,Unknown,Unknown
+1152421163,Maharashtra,Public EV Station,Tata Power,18.6234031,73.7454767,Standard AC,Standard,2,Unknown,Unknown
+1152424877,Maharashtra,Public EV Station,Independent / Public,18.5994671,73.7807696,Standard AC,Standard,1,Unknown,Unknown
+1152427340,Maharashtra,Public EV Station,Independent / Public,18.5807735,73.8158088,Standard AC,Standard,1,Unknown,Unknown
+1221529119,Maharashtra,Shell EV Charging Station,Shell,18.4571766,73.8053923,Standard AC,Standard,1,Unknown,Unknown
+1222357597,Maharashtra,Public EV Station,Independent / Public,18.5794696,73.73858,Standard AC,Standard,7,Unknown,Unknown
+1250660872,Maharashtra,Public EV Station,O S Overseas,18.4926136,73.9990571,Standard AC,Standard,1,Unknown,Unknown
+1024717983,Tamil Nadu,Cycle Kiosk / E-Vehicle Recharge,Independent / Public,12.0010333,79.8100656,Standard AC,Standard,1,Unknown,Unknown
+6305362606,Tamil Nadu,Public EV Station,Independent / Public,12.0045118,79.8007503,Standard AC,Standard,1,Unknown,Unknown
+6769723885,Tamil Nadu,Public EV Station,Solar Powered Charging Station,11.9808709,79.7768883,Standard AC,Standard,1,Unknown,Unknown
+8919501650,Tamil Nadu,Tata Motors True Sai Works FC,Tata Power EZ Charge,11.6828829,78.1260507,Standard AC,Standard,25,Unknown,Unknown
+8919511936,Tamil Nadu,Zeon Charging Navakkarai,Zeon,10.8559725,76.8624485,Standard AC,Standard,50,Unknown,yes
+9204462345,Tamil Nadu,veev,veev,11.3300012,76.902597,Fast DC,1,1,24/7,yes
+9204495608,Tamil Nadu,srt tata ev charging station,tata power,11.022897,76.9515473,Fast DC,2,2,24/7,yes
+9508125095,Tamil Nadu,Ather Charging Station,Ather Grid,11.1380148,76.9405241,Standard AC,Standard,1,24/7,Unknown
+9527221544,Tamil Nadu,veev,veev,11.3217865,76.9162515,Fast DC,2,2,24/7,yes
+9780694390,Tamil Nadu,Zeon Charging station,Zeon Network,11.5193364,77.9350619,Fast DC,yes,50,Unknown,Unknown
+9780784996,Tamil Nadu,Zeon Charging station,Zeon Network,11.7783495,78.1987759,Standard AC,Standard,22,Unknown,Unknown
+9956403209,Tamil Nadu,Zeon Charging Station,Zeon Network,11.7553892,78.0509746,Fast DC,Standard,1,Unknown,Unknown
+9956542246,Tamil Nadu,Zeon Charging Station,Zeon Network,11.4925016,78.1536802,Standard AC,yes,50,Unknown,no
+9992403939,Tamil Nadu,Public EV Station,Independent / Public,13.1085033,80.2810805,Standard AC,Standard,1,Unknown,Unknown
+10036499344,Tamil Nadu,Public EV Station,Independent / Public,13.0317217,80.2419487,Standard AC,Standard,1,Unknown,Unknown
+10137291010,Tamil Nadu,Zeon Charging,Zeon Network,12.9069204,78.9619166,Standard AC,50kw,50,Unknown,Unknown
+10573903209,Tamil Nadu,Public EV Station,relux,11.3021696,77.600583,Standard AC,Standard,1,24/7,yes
+10596152553,Tamil Nadu,Public EV Station,relux,11.1824544,77.2845422,Fast DC,1,1,24/7,yes
+10917018646,Tamil Nadu,Public EV Station,Ather grid,11.2870573,76.9637875,Standard AC,Standard,1,24/7,yes
+11034491772,Tamil Nadu,Public EV Station,Independent / Public,12.6406664,78.0642455,Standard AC,Standard,1,Unknown,yes
+11536826351,Tamil Nadu,Public EV Station,jio-bp pulse ev charging station,11.2789059,76.9478415,Fast DC,2,1,24/7,yes
+11919269548,Tamil Nadu,Public EV Station,Hyundai,12.5884081,78.1463084,Standard AC,Standard,2,24/7,yes
+12090459397,Tamil Nadu,Public EV Station,Zeon,11.3718054,77.647312,Fast DC,type2_combo,120,Unknown,Unknown
+12192684763,Tamil Nadu,Ather charger,Independent / Public,12.3323233,78.2138537,Standard AC,Standard,1,Unknown,Unknown
+12468474654,Tamil Nadu,Public EV Station,Zeon Charging,12.6245373,80.1977797,Standard AC,yes,22kw,Unknown,Unknown
+12468514473,Tamil Nadu,Public EV Station,Minooki Mobility,12.6430987,80.2004767,Fast DC,1,1,Unknown,Unknown
+12468546310,Tamil Nadu,Public EV Station,Chargezone,12.6133518,80.1706767,Fast DC,2,60kw,Unknown,Unknown
+12470580711,Tamil Nadu,Super Hub EV Charging Hub,Independent / Public,12.2401178,79.662529,Standard AC,Standard,1,Unknown,Unknown
+12624560446,Tamil Nadu,Public EV Station,eesl,13.0791255,80.261572,Fast DC,3,60,24/7,no
+12793391154,Tamil Nadu,Public EV Station,go ec,11.7410487,78.0502782,Standard AC,Standard,1,Unknown,yes
+13589225004,Tamil Nadu,Hyundai EV Charging Station,Hyundai,12.3574005,78.4346233,Standard AC,Standard,2,Unknown,yes
+13619600201,Tamil Nadu,Public EV Station,Independent / Public,13.0433272,80.273731,Standard AC,Standard,1,Unknown,Unknown
+13775144001,Tamil Nadu,Public EV Station,Zeon,11.4470857,77.7453537,Standard AC,Standard,1,Unknown,Unknown
+13775144101,Tamil Nadu,Public EV Station,Zeon,11.4469901,77.7451856,Standard AC,Standard,1,Unknown,Unknown
+13775144302,Tamil Nadu,Public EV Station,Ather Grid,11.4470328,77.7453455,Standard AC,Standard,1,Unknown,Unknown
+13857810662,Tamil Nadu,Public EV Station,Bharat Petroleum,12.1640693,79.6113871,Standard AC,Standard,1,Unknown,yes
+13969665737,Tamil Nadu,EV Charging,Independent / Public,11.941349,79.7969919,Standard AC,Standard,1,Unknown,Unknown
+14001726782,Tamil Nadu,vida charging station,vida,11.0540118,77.0145419,Standard AC,Standard,2,Mo-Su 06:00-22:00,yes
+14027946995,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0792591,77.0027863,Standard AC,Standard,2,24/7,yes
+14028005231,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.074846,77.0080344,Standard AC,Standard,3.3,Unknown,yes
+14028012667,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0957151,77.0154671,Standard AC,Standard,2,24/7,yes
+14028047524,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0809332,76.9933971,Standard AC,Standard,2,24/7,yes
+14028054151,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0733347,76.9852954,Standard AC,Standard,2,24/7,yes
+14028521564,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0250065,77.011191,Standard AC,Standard,2,24/7,yes
+14028540743,Tamil Nadu,vida charging station,vida,11.0253086,76.9788275,Standard AC,Standard,2,24/7,yes
+14038442342,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0462531,76.9468752,Standard AC,Standard,1,Mo-Su 11:00-22:00,yes
+14047497970,Tamil Nadu,Public EV Station,Statiq,13.071801,80.2223305,Standard AC,Standard,1,Unknown,Unknown
+14058615793,Tamil Nadu,Public EV Station,Ather Grid,11.1658867,76.9492139,Standard AC,Standard,2,24/7,yes
+14059886602,Tamil Nadu,BPCL Charging Station,Independent / Public,13.0979111,80.2384469,Standard AC,Standard,1,24/7,Unknown
+14063411321,Tamil Nadu,Chargezone EV Charging,Independent / Public,12.5894797,78.1435604,Fast DC,Standard,2,Unknown,yes
+14067934164,Tamil Nadu,Public EV Station,HP eCharge,11.2831841,76.9708429,Fast DC,2,2,24/7,yes
+14073868040,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.0366665,76.9275036,Standard AC,Standard,2,24/7,yes
+14074469426,Tamil Nadu,Hyundai Hotel Arabian Station,Hyundai,11.2265873,76.9594139,Fast DC,Standard,2,24/7,yes
+14074469427,Tamil Nadu,Ather Grid Charging station,Ather Energy,11.2266184,76.9596876,Standard AC,Standard,1,24/7,yes
+14078531523,Tamil Nadu,vida charging station MRG hero,vida,11.0324857,76.9779353,Standard AC,Standard,2,24/7,yes
+14090981021,Tamil Nadu,Public EV Station,HP eCharge,11.2473846,76.9565426,Fast DC,2,2,24/7,yes
+14091005515,Tamil Nadu,Public EV Station,Independent / Public,11.1133057,76.9353761,Fast DC,2,2,Unknown,yes
+14096406876,Tamil Nadu,Chargezone EV Charging (Gentari),Independent / Public,12.5701391,78.1725206,Standard AC,Standard,1,Unknown,Unknown
+14133758030,Tamil Nadu,Public EV Station,Independent / Public,12.5820463,78.1571461,Standard AC,Standard,1,Unknown,Unknown
+14190528261,Tamil Nadu,Zeon,Zeon,11.2808074,77.5577801,Standard AC,Standard,1,Unknown,yes
+14190626710,Tamil Nadu,Ather,Ather,11.2808334,77.5577496,Standard AC,Standard,1,Unknown,Unknown
+14236721105,Tamil Nadu,vida charging station,vida,11.1644682,76.9490164,Standard AC,Standard,1,24/7,yes
+14236728075,Tamil Nadu,vida charging station,vida,11.0747855,76.9417466,Standard AC,Standard,1,24/7,yes
+14243811707,Tamil Nadu,procharge,procharge,12.2103972,79.0840447,Standard AC,Standard,2,Unknown,yes
+14250100816,Tamil Nadu,Public EV Station,Independent / Public,11.7529748,78.0505436,Standard AC,Standard,1,Unknown,yes
+1531209911,Tamil Nadu,Public EV Station,Shell,12.9221172,80.1654923,Standard AC,Standard,1,Unknown,yes
+11898903434,Chandigarh & Punjab Corridor,Public EV Station,Independent / Public,30.7448331,76.9033098,Standard AC,Standard,1,Unknown,Unknown
